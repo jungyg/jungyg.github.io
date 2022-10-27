@@ -10,9 +10,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Records of my Work"
+title                    : "Life is Short"
 title_separator          : "-"
-subtitle                 : "of my Work"
+subtitle                 : "Do What You Want"
 name                     : "Yoon Gyo Jung"
 description              : "Welcome to my website"
 url                      : "https://jungyg.github.io"
@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
+og_image                 : "/assets/images/bio2.JPG"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,20 +83,20 @@ analytics:
 # Site Author
 author:
   name             : "Yoon Gyo Jung"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio2.JPG"
   bio              : "CV/ML Researcher/Developer."
-  location         : "Seoul, South Korea"
+  location         : "Boston, Massachusetts, U.S."
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=CLKpKy8AAAAJ&hl=en&authuser=2"
+      url: "https://scholar.google.com/citations?user=xJNhAAMAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jungyg"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/jungyg521"
-    - label: "jungyg@yonsei.ac.kr"
+    - label: "jung.yoo@northeastern.edu"
       icon: "fas fa-fw fa-envelope"
       url: ""
 
